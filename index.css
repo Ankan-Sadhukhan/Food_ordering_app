@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width:130px;
+}
+
+.nav-items{
+    display: flex;
+    padding-right: 10px;
+}
+
+.nav-items> h4{
+    padding: 10px;
+}
