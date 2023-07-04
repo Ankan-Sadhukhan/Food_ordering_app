@@ -15,3 +15,22 @@
 .nav-items> h4{
     padding: 10px;
 }
+
+.card{
+    width:300px;
+    border: 1px solid black;
+    padding: 9px;
+}
+.card>img{
+    width: 100%;
+}
+.card>.cuisine{
+    width: 100%;
+    word-wrap: normal;
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
